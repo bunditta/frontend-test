@@ -1,0 +1,17 @@
+div#all-card-modal {
+  height: 650px;
+  top: 55px;
+  width: 800px;
+  left: 140px;
+  overflow: hidden;
+  font-family: 'Atma', cursive;
+}
+
+div#modal-wrapper {
+  height: 100%;
+}
+
+.modal-content {
+  height: 100%;
+  overflow: auto;
+}
